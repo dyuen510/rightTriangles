@@ -28,3 +28,19 @@ on which it is called.
 <div align="center">
     <img src="staircase.png" width="400px"</img> 
 </div>
+
+
+<h2 align ='center'><strong> reversedTriangle </strong></h2>
+
+<p align = 'center'> const reversedTriangle = (n) =>{
+    for(let i = 0; i<n; i++){
+        console.log('#'.repeat(n-i) + ' '.repeat(i))
+    }
+}
+
+<div align="center">
+    <img src="reversedTri.png" width="400px"</img> 
+</div>
+
+
+
