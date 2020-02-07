@@ -1,6 +1,6 @@
 # rightTriangles
 
-<h1><strong>Four Different Positions For a Right Triangle.</strong></h1>
+<h1 align ='center'><strong>Four Different Positions For a Right Triangle.</strong></h1>
 Four different positions for a right triangle with ejs6. 
 
 All these examples uses repeat() to console out a right triangle. 
