@@ -9,6 +9,13 @@ on which it is called.
 
 <h2><strong> Simple Triangle </strong></h2>
 
+const triangle = (n) => {
+    for(let i = 1; i<=n ; i++){
+        console.log('#'.repeat(i) + ' '.repeat(i))
+}}
+
 <div align="center">
     <img src="simpleTri.png" width="400px"</img> 
 </div>
+
+
