@@ -18,4 +18,13 @@ on which it is called.
     <img src="simpleTri.png" width="400px"</img> 
 </div>
 
+<h2 align ='center'><strong> staircase </strong></h2>
 
+<p align = 'center'> const staircase = (n) =>{
+    for (let i = 1; i<=n; i++){
+        console.log(' '.repeat(n-i) + '#'.repeat(i))
+}}
+
+<div align="center">
+    <img src="staircase.png" width="400px"</img> 
+</div>
