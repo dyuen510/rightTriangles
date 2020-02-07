@@ -42,5 +42,18 @@ on which it is called.
     <img src="reversedTri.png" width="400px"</img> 
 </div>
 
+<h2 align ='center'><strong> reversedStaircase </strong></h2>
+
+<p align = 'center'> const reversedStaircase = (n) => {
+    for(let i = 0; i< n; i++){
+        console.log(' '.repeat(i) + '#'.repeat(n-i))
+    }
+}
+</p>
+
+<div align="center">
+    <img src="reversedStair.png" width="400px"</img> 
+</div>
+
 
 
