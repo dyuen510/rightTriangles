@@ -26,5 +26,5 @@ on which it is called.
 }}
 
 <div align="center">
-    <img src="staircase.png" width="400px"</img> 
+    <img src="staircase.png" width="400px" height="250px"</img> 
 </div>
