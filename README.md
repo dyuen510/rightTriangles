@@ -8,3 +8,7 @@ Repeat() constructs and returns a new string which contains the specified number
 on which it is called. 
 
 <h2><strong> Simple Triangle </strong></h2>
+
+<div align="center">
+    <img src="simpleTri.png" width="400px"</img> 
+</div>
