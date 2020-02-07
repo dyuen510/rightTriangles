@@ -23,7 +23,7 @@ on which it is called.
 <p align = 'center'> const staircase = (n) =>{
     for (let i = 1; i<=n; i++){
         console.log(' '.repeat(n-i) + '#'.repeat(i))
-}}
+}}</p>
 
 <div align="center">
     <img src="staircase.png" width="400px"</img> 
@@ -36,7 +36,7 @@ on which it is called.
     for(let i = 0; i<n; i++){
         console.log('#'.repeat(n-i) + ' '.repeat(i))
     }
-}
+}</p>
 
 <div align="center">
     <img src="reversedTri.png" width="400px"</img> 
