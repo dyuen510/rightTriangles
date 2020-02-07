@@ -15,7 +15,7 @@ on which it is called.
 }}</p>
 
 <div align="center">
-    <img src="simpleTri.png" width="400px"</img> 
+    <img src="images/simpleTri.png" width="400px"</img> 
 </div>
 
 <h2 align ='center'><strong> staircase </strong></h2>
@@ -26,7 +26,7 @@ on which it is called.
 }}</p>
 
 <div align="center">
-    <img src="staircase.png" width="400px"</img> 
+    <img src="images/staircase.png" width="400px"</img> 
 </div>
 
 
@@ -39,7 +39,7 @@ on which it is called.
 }</p>
 
 <div align="center">
-    <img src="reversedTri.png" width="400px"</img> 
+    <img src="images/reversedTri.png" width="400px"</img> 
 </div>
 
 <h2 align ='center'><strong> reversedStaircase </strong></h2>
@@ -52,7 +52,7 @@ on which it is called.
 </p>
 
 <div align="center">
-    <img src="reversedStair.png" width="400px"</img> 
+    <img src="images/reversedStair.png" width="400px"</img> 
 </div>
 
 
