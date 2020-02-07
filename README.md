@@ -20,7 +20,7 @@ on which it is called.
 
 <h2 align ='center'><strong> staircase </strong></h2>
 
-<p align = 'center'> const staircase = (n) =>{
+<p align = 'center' style ='background-color:lightgray'> const staircase = (n) =>{
     for (let i = 1; i<=n; i++){
         console.log(' '.repeat(n-i) + '#'.repeat(i))
 }}</p>
