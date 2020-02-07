@@ -7,7 +7,7 @@ All these examples uses repeat() to console out a right triangle.
 Repeat() constructs and returns a new string which contains the specified number of copies of the string
 on which it is called. 
 
-<h2><strong> Simple Triangle </strong></h2>
+<h2 align ='center'><strong> Simple Triangle </strong></h2>
 
 <p align ='center'>const triangle = (n) => {
     for(let i = 1; i<=n ; i++){
