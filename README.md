@@ -33,7 +33,7 @@ on which it is called.
 <h2 align ='center'><strong> reversedTriangle </strong></h2>
 
 <p align = 'center'> const reversedTriangle = (n) =>{
-    for(let i = 0; i<n; i++){
+    for(let i = 0; i< n; i++){
         console.log('#'.repeat(n-i) + ' '.repeat(i))
     }
 }</p>
